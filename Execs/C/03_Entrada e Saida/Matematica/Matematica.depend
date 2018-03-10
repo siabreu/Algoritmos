@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1520720544 source:c:\users\siabr\dropbox\anhembi\2018sem01\algoritmos e programação\execs\c\03_entrada e saida\matematica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
